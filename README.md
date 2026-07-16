@@ -15,13 +15,11 @@ An end-to-end Excel analytics project covering data cleaning, multi-table lookup
 
 ---
 
-## Project Structure
+## Project File
 
-```
-coffee-sales-dashboard/
-├── coffeeOrdersData.xlsx    # Complete workbook — raw data, cleaned data, pivots, dashboard
-└── README.md
-```
+📊 **[View Full Excel Dashboard (Google Drive)](https://docs.google.com/spreadsheets/d/1l3Eq_ODl7kCps_jXxJlXpMdQDadUqozi/edit?usp=sharing)**
+
+> File is too large for GitHub — hosted on Google Drive. Download or open directly in Excel/Google Sheets.
 
 **Workbook Sheets:**
 - `orders` — raw orders data
