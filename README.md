@@ -63,5 +63,5 @@ An end-to-end Excel analytics project covering data cleaning, multi-table lookup
 ---
 
 ## Author
-**Sansu** | B.Tech Mechanical Engineering, MANIT Bhopal  
+**Sanskriti Kesharwani** | B.Tech Mechanical Engineering, MANIT Bhopal  
 Aspiring Data & Business Analyst | Sales & Operations Analytics
